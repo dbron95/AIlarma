@@ -1,0 +1,6 @@
+[requires]
+qt/5.15.2
+opencv/4.1.2
+ffmpeg/5.5
+[generators]
+cmake
